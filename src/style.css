@@ -1,0 +1,23 @@
+
+img {
+    height: 65px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:  rgb(240 238 220);
+}
+
+
+main, header {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+main img {
+    height: 240px;
+}
