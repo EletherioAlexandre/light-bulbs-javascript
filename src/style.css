@@ -21,3 +21,10 @@ main, header {
 main img {
     height: 240px;
 }
+
+#main-toggle {
+    height: 50px;
+    align-self: flex-end;
+    padding-right: 30px;
+    cursor: pointer;
+}
