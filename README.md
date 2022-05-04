@@ -6,9 +6,6 @@
 
 # Hello! 😁
 
-[TOC]
-
-
 
 ## Light Bulbs Project - JavaScript (EN)
 
